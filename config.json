@@ -1,4 +1,4 @@
-{
+{{
   "Author": "SHAHADAT SAHU",
   "version": "2.0.0",
   "language": "en",
@@ -17,7 +17,9 @@
 
   "ADMINBOT": [
     "61582372804210",
-  ],
+    "61586663640809",
+    "100044713412032",
+  ],  ]
   "NDH": ["100044713412032"],
   "adminOnly": false,
   "ndhOnly": false,
